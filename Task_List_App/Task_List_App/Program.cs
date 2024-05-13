@@ -9,15 +9,11 @@ namespace Task_List_App
         static void Main(string[] args)
         {
             Console.WriteLine("~~WELCOME TO TASK LIST APPLICATION~~");
-
             Tasks();
-
         }
-
 
         public static void Tasks()
         {
-
             int choice, exit, taskIndex;
             string title, desc, modifiedTitle, modifiedDesc;
             bool validIndex = false;
@@ -80,9 +76,7 @@ namespace Task_List_App
                                 Console.WriteLine("\n~~~Your Tasks are:~~~\n");
                                 Console.WriteLine(tasks);
                             }
-
-
-
+                            
                             while (validIndex = true)
                             {
                                 Console.WriteLine("\nPlease Enter Index of Task to be Modified with their new title and description:");
@@ -109,11 +103,7 @@ namespace Task_List_App
                                     break;
 
                                 }
-
-
-
                             }
-
                         }
                         break;
 
@@ -133,9 +123,7 @@ namespace Task_List_App
                                 Console.WriteLine("\n~~~Your Tasks are:~~~\n");
                                 Console.WriteLine(tasks);
                             }
-
-
-
+                            
                             while (validIndex = true)
                             {
                                 Console.WriteLine("\nPlease Enter Index of Task to be Deleted:");
@@ -156,8 +144,6 @@ namespace Task_List_App
                                     break;
 
                                 }
-
-
 
                             }
 
@@ -198,10 +184,8 @@ namespace Task_List_App
                 Console.ReadLine();
                 Console.Clear();
                 Tasks();
-
-
-
             }
+            
             else
             {
                 Console.WriteLine("Please Enter Valid Choice and Press Enter For Main Menu");
