@@ -1,0 +1,7 @@
+D:\Task_List_App\Task_List_App\bin\Debug\Task_List_App.exe.config
+D:\Task_List_App\Task_List_App\bin\Debug\Task_List_App.exe
+D:\Task_List_App\Task_List_App\bin\Debug\Task_List_App.pdb
+D:\Task_List_App\Task_List_App\obj\Debug\Task_List_App.csproj.AssemblyReference.cache
+D:\Task_List_App\Task_List_App\obj\Debug\Task_List_App.csproj.CoreCompileInputs.cache
+D:\Task_List_App\Task_List_App\obj\Debug\Task_List_App.exe
+D:\Task_List_App\Task_List_App\obj\Debug\Task_List_App.pdb
