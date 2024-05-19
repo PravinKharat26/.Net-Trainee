@@ -9,7 +9,7 @@ Screen outputs:-
 
 ![Screenshot (1110)](https://github.com/PravinKharat26/.Net-Trainee/assets/150601575/cdcac77b-bdef-4b81-b221-1db21e490f42)
 
-![Screenshot (1111)](https://github.com/PravinKharat26/.Net-Trainee/assets/150601575/eb570fa4-38d6-4c8f-a5f0-45aae753fa2b)
+![Screenshot (1141)](https://github.com/PravinKharat26/.Net-Trainee/assets/150601575/ecae5f7a-7538-448c-a771-e62927b56899)
 
 ![Screenshot (1112)](https://github.com/PravinKharat26/.Net-Trainee/assets/150601575/fcdf88c1-6ec3-4608-946c-d7b2ae1afe45)
 
