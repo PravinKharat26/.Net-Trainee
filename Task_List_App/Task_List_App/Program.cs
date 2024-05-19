@@ -1,5 +1,6 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Task_List_App
 {
@@ -11,9 +12,9 @@ namespace Task_List_App
             Console.WriteLine("~~WELCOME TO TASK LIST APPLICATION~~");
             Tasks();
         }
-
         public static void Tasks()
         {
+
             int choice, exit, taskIndex;
             string title, desc, modifiedTitle, modifiedDesc;
             bool validIndex = false;
@@ -55,7 +56,7 @@ namespace Task_List_App
                             foreach (string tasks in list)
                             {
                                 Console.WriteLine(tasks);
-                                // Console.WriteLine($" {title}\nDescription of task: {desc}");
+
                             }
                         }
                         break;
@@ -63,7 +64,7 @@ namespace Task_List_App
                     case 3:
 
                         Console.WriteLine("\nYou chose the option 3-Modify/Edit task:");
-                        //Console.WriteLine("\nYour Tasks are:\n");
+
                         if (list.Count == 0)
                         {
                             Console.WriteLine("\nCan't Modify,Task List is empty");
@@ -76,10 +77,10 @@ namespace Task_List_App
                                 Console.WriteLine("\n~~~Your Tasks are:~~~\n");
                                 Console.WriteLine(tasks);
                             }
-                            
+
                             while (validIndex = true)
                             {
-                                Console.WriteLine("\nPlease Enter Index of Task to be Modified with their new title and description:");
+                                Console.WriteLine("\nPlease Enter Index of Task to be Modified:");
                                 taskIndex = Convert.ToInt32(Console.ReadLine());
 
                                 if (taskIndex < 0 || taskIndex >= list.Count)
@@ -90,16 +91,52 @@ namespace Task_List_App
                                 else
                                 {
                                     validIndex = true;
+                                    Console.WriteLine("\nPlease Enter:\n ~~0 to Modify Only Title \n ~~1 to Modify Only Description \n ~~2 to Modify Both\n");
+                                    int modifyChoice = Convert.ToInt32(Console.ReadLine());
 
-                                    Console.WriteLine("\nPlease enter Task title:");
-                                    modifiedTitle = Convert.ToString(Console.ReadLine());
+                                    if (modifyChoice == 0)
+                                    {
+                                        Console.WriteLine("\nPlease enter Task title:");
+                                        modifiedTitle = Convert.ToString(Console.ReadLine());
+
+                                        string originalDesc = list[taskIndex].Substring(list[taskIndex].IndexOf("Description of task:"));
+
+                                        list[taskIndex] = ($"Task Title:\n{modifiedTitle}\n{originalDesc}\n");
+                                        Console.WriteLine("\nTask Modified Succesfully");
 
 
-                                    Console.WriteLine("\nPlease enter Task description:");
-                                    modifiedDesc = Convert.ToString(Console.ReadLine());
+                                    }
+                                    else if (modifyChoice == 1)
+                                    {
+                                        Console.WriteLine("\nPlease enter Task description:");
+                                        modifiedDesc = Convert.ToString(Console.ReadLine());
 
-                                    list[taskIndex] = ($"Task Title:\n{modifiedTitle}\nDescription of task:\n{modifiedDesc}\n");
-                                    Console.WriteLine("\nTask Modified Succesfully");
+                                        int descIndex = list[taskIndex].IndexOf("Description of task:");
+                                        string originalTitle = list[taskIndex].Substring(0, descIndex);
+
+                                        list[taskIndex] = ($"{originalTitle}\nDescription of task:\n{modifiedDesc}\n");
+
+                                        Console.WriteLine("\nTask Modified Succesfully");
+                                    }
+
+                                    else if (modifyChoice == 2)
+                                    {
+                                        Console.WriteLine("\nPlease enter Task title:");
+                                        modifiedTitle = Convert.ToString(Console.ReadLine());
+
+
+                                        Console.WriteLine("\nPlease enter Task description:");
+                                        modifiedDesc = Convert.ToString(Console.ReadLine());
+
+                                        list[taskIndex] = ($"Task Title:\n{modifiedTitle}\nDescription of task:\n{modifiedDesc}\n");
+                                        Console.WriteLine("\nTask Modified Succesfully");
+
+                                    }
+                                    else
+                                    {
+                                        Console.WriteLine("Please enter valid choice..");
+                                    }
+
                                     break;
 
                                 }
@@ -110,7 +147,7 @@ namespace Task_List_App
                     case 4:
 
                         Console.WriteLine("\nYou chose the option 4-Delete a task:");
-                        //Console.WriteLine("\nYour Tasks are:\n");
+
                         if (list.Count == 0)
                         {
                             Console.WriteLine("\nCan't Delete,Task List is empty");
@@ -123,7 +160,7 @@ namespace Task_List_App
                                 Console.WriteLine("\n~~~Your Tasks are:~~~\n");
                                 Console.WriteLine(tasks);
                             }
-                            
+
                             while (validIndex = true)
                             {
                                 Console.WriteLine("\nPlease Enter Index of Task to be Deleted:");
@@ -142,11 +179,8 @@ namespace Task_List_App
                                     Console.WriteLine("\nTask Deleted Succesfully");
 
                                     break;
-
                                 }
-
                             }
-
                         }
                         break;
 
@@ -185,7 +219,6 @@ namespace Task_List_App
                 Console.Clear();
                 Tasks();
             }
-            
             else
             {
                 Console.WriteLine("Please Enter Valid Choice and Press Enter For Main Menu");
@@ -193,7 +226,6 @@ namespace Task_List_App
                 Console.Clear();
                 Tasks();
             }
-
         }
     }
 }
