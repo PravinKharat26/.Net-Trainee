@@ -1,0 +1,7 @@
+D:\Assignment-2-(IMS)\Assignment-2-(IMS)\obj\Debug\Assignment-2-(IMS).csproj.AssemblyReference.cache
+D:\Assignment-2-(IMS)\Assignment-2-(IMS)\obj\Debug\Assignment-2-(IMS).csproj.CoreCompileInputs.cache
+D:\Assignment-2-(IMS)\Assignment-2-(IMS)\bin\Debug\Assignment-2-(IMS).exe.config
+D:\Assignment-2-(IMS)\Assignment-2-(IMS)\bin\Debug\Assignment-2-(IMS).exe
+D:\Assignment-2-(IMS)\Assignment-2-(IMS)\bin\Debug\Assignment-2-(IMS).pdb
+D:\Assignment-2-(IMS)\Assignment-2-(IMS)\obj\Debug\Assignment-2-(IMS).exe
+D:\Assignment-2-(IMS)\Assignment-2-(IMS)\obj\Debug\Assignment-2-(IMS).pdb
