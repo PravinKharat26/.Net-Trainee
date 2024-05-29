@@ -2,7 +2,7 @@
 **Screen outputs:-**
 
 ![Screenshot (1219)](https://github.com/PravinKharat26/.Net-Trainee/assets/150601575/7ab42106-5cb9-44b4-b05d-24247ad63fd4)
-ssets/150601575/bfd5cdaa-3751-479b-87a1-5f601d4f6d42)
+
 
 
 
