@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\services\\visitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\services\\passservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\services\\passservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\services\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\interface\\ipassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\interface\\ipassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\interface\\isecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\interface\\isecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\controllers\\visitorsecuritycontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\controllers\\visitorsecuritycontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\interface\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\interface\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\entities\\loginentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\entities\\loginentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\dto\\passdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\dto\\passdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\entities\\passentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\entities\\passentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\dto\\visitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\entities\\securityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\entities\\securityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\dto\\securitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\dto\\securitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\interface\\ivisitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\interface\\ivisitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\services\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\services\\officeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\dto\\managerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\dto\\officedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\dto\\officedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\entities\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\entities\\managerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\entities\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\entities\\officeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\interface\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\interface\\iofficeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\interface\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\interface\\imanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|d:\\assignment-4-visitor-security-clearance-system\\visitor_security_clearance_system\\visitor_security_clearance_system\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4463D29D-C9E2-4ED5-8351-4C0F722E9848}|Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System.csproj|solutionrelative:visitor_security_clearance_system\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\VisitorService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Services\\VisitorService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\VisitorService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Services\\VisitorService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:54:30.857Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISecurityService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\ISecurityService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Interface\\ISecurityService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\ISecurityService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Interface\\ISecurityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:28:42.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPassService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IPassService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Interface\\IPassService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IPassService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Interface\\IPassService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:53:16.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\ManagerService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Services\\ManagerService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\ManagerService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Services\\ManagerService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:16:26.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICosmosDBService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\CosmosDB\\ICosmosDBService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\CosmosDB\\ICosmosDBService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:52:25.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmosDBService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\CosmosDB\\CosmosDBService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\CosmosDB\\CosmosDBService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\CosmosDB\\CosmosDBService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\CosmosDB\\CosmosDBService.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAJMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:52:06.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Services\\EmailSender.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:09:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T12:49:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\PassService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Services\\PassService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\PassService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Services\\PassService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAuwFUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:53:37.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VisitorSecurityContoller.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Controllers\\VisitorSecurityContoller.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Controllers\\VisitorSecurityContoller.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Controllers\\VisitorSecurityContoller.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Controllers\\VisitorSecurityContoller.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAMkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:48:26.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Services\\LoginService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\LoginService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Services\\LoginService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:07:42.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Interface\\ILoginService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\ILoginService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Interface\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:07:25.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginEntity.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\LoginEntity.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Entities\\LoginEntity.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\LoginEntity.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Entities\\LoginEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:07:02.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PassDTO.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\PassDTO.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\DTO\\PassDTO.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\PassDTO.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\DTO\\PassDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:52:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PassEntity.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\PassEntity.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Entities\\PassEntity.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\PassEntity.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Entities\\PassEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:52:28.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Common\\Credentials.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Common\\Credentials.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Common\\Credentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:52:59.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Program.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Program.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Program.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:57:22.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VisitorDTO.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\VisitorDTO.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\DTO\\VisitorDTO.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\VisitorDTO.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\DTO\\VisitorDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:53:26.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SecurityEntity.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\SecurityEntity.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Entities\\SecurityEntity.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\SecurityEntity.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Entities\\SecurityEntity.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:28:24.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IVisitorService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IVisitorService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Interface\\IVisitorService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IVisitorService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Interface\\IVisitorService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:54:11.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SecurityDTO.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\SecurityDTO.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\DTO\\SecurityDTO.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\SecurityDTO.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\DTO\\SecurityDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:28:11.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:06:50.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OfficeService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\OfficeService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Services\\OfficeService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\OfficeService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Services\\OfficeService.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAIBQwE0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:26:19.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\SecurityService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Services\\SecurityService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Services\\SecurityService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Services\\SecurityService.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAIBQwE4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:29:03.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManagerDTO.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\ManagerDTO.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\DTO\\ManagerDTO.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\ManagerDTO.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\DTO\\ManagerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:17:18.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OfficeDTO.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\OfficeDTO.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\DTO\\OfficeDTO.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\DTO\\OfficeDTO.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\DTO\\OfficeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:25:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagerEntity.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\ManagerEntity.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Entities\\ManagerEntity.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\ManagerEntity.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Entities\\ManagerEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:17:05.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OfficeEntity.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\OfficeEntity.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Entities\\OfficeEntity.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\OfficeEntity.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Entities\\OfficeEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:25:41.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VisitorEntity.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\VisitorEntity.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Entities\\VisitorEntity.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Entities\\VisitorEntity.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Entities\\VisitorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:53:42.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOfficeService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IOfficeService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Interface\\IOfficeService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IOfficeService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Interface\\IOfficeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:26:04.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IManagerService.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IManagerService.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Interface\\IManagerService.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Interface\\IManagerService.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Interface\\IManagerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:16:45.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Visitor_Security_Clearance_System\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Assignment-4-Visitor-Security-Clearance-System\\Visitor_Security_Clearance_System\\Visitor_Security_Clearance_System\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Visitor_Security_Clearance_System\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:53:10.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
