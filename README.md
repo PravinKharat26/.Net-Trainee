@@ -1,3 +1,18 @@
+# Assignment -5-Employee Management System
+**Screen outputs:-**
+
+![Screenshot (1316)](https://github.com/PravinKharat26/.Net-Trainee/assets/150601575/18a6e067-6ed4-426a-9171-1591490f494c)
+
+
+
+# Assignment -4-Visitor Security Clearance System
+**Screen outputs:-**
+
+![Screenshot (1314)](https://github.com/PravinKharat26/.Net-Trainee/assets/150601575/ce8f44ad-ede1-4ce0-9934-a51a9a896d6a)
+
+
+
+
 # Assignment -3-Library Management System
 **Screen outputs:-**
 
