@@ -124,7 +124,7 @@ namespace Employee_Management_System.Services
             responseObject.Page = employeeBasicFilterCriteria.Page;
             responseObject.PageSize=employeeBasicFilterCriteria.PageSize;
 
-            var skip=employeeBasicFilterCriteria.PageSize=(employeeBasicFilterCriteria.Page-1);
+            var skip=employeeBasicFilterCriteria.PageSize * (employeeBasicFilterCriteria.Page-1);
 
             filteredRecords = filteredRecords.Skip(skip).Take(employeeBasicFilterCriteria.PageSize).ToList();
             foreach (var record in filteredRecords)
@@ -241,7 +241,7 @@ namespace Employee_Management_System.Services
             responseObject.Page = employeeAdditionalFilterCriteria.Page;
             responseObject.PageSize = employeeAdditionalFilterCriteria.PageSize;
 
-            var skip = employeeAdditionalFilterCriteria.PageSize = (employeeAdditionalFilterCriteria.Page - 1);
+            var skip = employeeAdditionalFilterCriteria.PageSize * (employeeAdditionalFilterCriteria.Page - 1);
 
             filteredRecords = filteredRecords.Skip(skip).Take(employeeAdditionalFilterCriteria.PageSize).ToList();
             foreach (var record in filteredRecords)
